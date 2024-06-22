@@ -5,7 +5,7 @@
 
 This repository contains clear instructions on how to set up and use the `llama3` and `mistral` models with Ollama. It includes all necessary scripts and configuration files used in the setup process.
 
-## Watch the Installation Video
+## Watch the Demo Video
 
 [![Ollama Installation Video](https://img.youtube.com/vi/Af362vPLuVQ/0.jpg)](https://www.youtube.com/watch?v=Af362vPLuVQ)
 
